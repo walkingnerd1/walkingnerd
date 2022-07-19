@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @walkingnerd1
+- **👋 Hi, I’m @walkingnerd1**
 - 👀 I’m interested in computer technology.
 - 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on development.
